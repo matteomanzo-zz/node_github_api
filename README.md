@@ -1,5 +1,5 @@
 #GitHub Profiles
-==
+
 This program gets informations from the Github API, which is connected to our NodeJS server, and displays these informations on a graphical interface styled by jQuery.
 
 <section align='center'>
@@ -7,14 +7,14 @@ This program gets informations from the Github API, which is connected to our No
 </section>
 
 ##Project's Aim
---
+
 - Learn NodeJS and Express
 - Set and use Node packages
 - Build an API
 - Create dynamic interfaces
 
 ##Technologies
---
+
 ###Server
 - NodeJS
 - Express
@@ -34,6 +34,6 @@ This program gets informations from the Github API, which is connected to our No
 - PhantomJS
 
 ##Collaborators
---
+
 - [Josh Bebbington](https://github.com/bebbs)
 - [Matteo Manzo](https://github.com/matteomanzo)
