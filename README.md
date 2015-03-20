@@ -21,7 +21,7 @@ This program gets informations from the Github API, which is connected to our No
 |            | HTML & CSS| Express.js| CasperJS |
 |            |           |           | PhantomJS|
 
-##How to run
+##How to run it
 Clone the repository and change into the directory:
 ```
 $ git clone https://github.com/bebbs/node_github_api.git
