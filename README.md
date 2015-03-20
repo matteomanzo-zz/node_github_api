@@ -15,11 +15,11 @@ This program gets informations from the Github API, which is connected to our No
 - Create dynamic interfaces
 
 ##Technologies
-| Languages   | Frameworks  | Testing  |
-| ------------|-------------| -----|
-| JavaScript  | Node        | Mocha |
-| HTML        | Express.js  | CasperJS |
-| CSS         |    | PhantomJS |
+| Languages  | Front End | Server    | Testing  |
+| ---------- | --------- | --------- | -------- |
+| JavaScript | jQuery    | Node      | Mocha    |
+|            | HTML & CSS| Express.js| CasperJS |
+|            |           |           | PhantomJS|
 
 ##How to run
 Clone the repository and change into the directory:
