@@ -15,20 +15,20 @@ This program gets informations from the Github API, which is connected to our No
 
 ##Technologies
 
-###Server
+#####Server
 - NodeJS
 - Express
 
-###Front-end
+#####Front-end
 - JavaScript
 - jQuery
 - HTML & CSS
 - MustacheJS
 
-###Api Requests
+#####Api Requests
 - AJAX
 
-###Testing
+#####Testing
 - Mocha
 - Chai
 - PhantomJS
