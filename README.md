@@ -1,5 +1,6 @@
 #GitHub Profiles
 
+##What is it?
 This program gets informations from the Github API, which is connected to our NodeJS server, and displays these informations on a graphical interface styled by jQuery.
 
 <section align='center'>
