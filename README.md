@@ -15,24 +15,27 @@ This program gets informations from the Github API, which is connected to our No
 - Create dynamic interfaces
 
 ##Technologies
+| Languages   | Frameworks  | Testing  |
+| ------------|-------------| -----|
+| JavaScript  | Node        | Mocha |
+| HTML        | Express.js  | CasperJS |
+| CSS         |    | PhantomJS |
 
-#####Server
-- NodeJS
-- Express
-
-#####Front-end
-- JavaScript
-- jQuery
-- HTML & CSS
-- MustacheJS
-
-#####Api Requests
-- AJAX
-
-#####Testing
-- Mocha
-- Chai
-- PhantomJS
+##How to run
+Clone the repository and change into the directory:
+```
+$ git clone https://github.com/bebbs/node_github_api.git
+$ cd node_github_api
+```
+Install the dependencies listed in the package.json 
+```
+npm install
+```
+Run the Gruntfile to 
+```
+grunt
+```
+Start the server using `node server.js`, then visit http://localhost:9999 to view the application
 
 ##Collaborators
 
