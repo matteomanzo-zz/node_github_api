@@ -24,16 +24,22 @@ This program gets informations from the Github API, which is connected to our No
 ##How to run it
 Clone the repository and change into the directory:
 ```
-$ git clone https://github.com/bebbs/node_github_api.git
+SSH:
+$ git clone git@github.com:matteomanzo/node_github_api.git
+HTTPS:
+$ git clone https://github.com/matteomanzo/node_github_api.git
+```
+Change directory
+```
 $ cd node_github_api
 ```
 Install the dependencies listed in the package.json 
 ```
-npm install
+$ npm install
 ```
-Run the Gruntfile to 
+Run the tests
 ```
-grunt
+$ grunt
 ```
 Start the server using `node server.js`, then visit http://localhost:9999 to view the application
 
