@@ -1,13 +1,13 @@
 #GitHub Profiles
 
 ##What is it?
-This program gets informations from the Github API, which is connected to our NodeJS server, and displays these informations on a graphical interface styled by jQuery.
+This application shows you the GitHub users info, by typing the GitHub username.
+This project is a Node application, served by Express, who hits the GitHub API and brings back data which will be elaborated and displayed by jQuery. Styled by CSS.
 
 <section align='center'>
   <img src='./screenshot.png' width=83%>
 </section>
 
-##Project's Aim
 
 - Learn NodeJS and Express
 - Set and use Node packages
