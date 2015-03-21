@@ -22,12 +22,15 @@ This project is a Node application, served by Express, who hits the GitHub API a
 |            |           |           | PhantomJS|
 
 ##How to run it
-Clone the repository and change into the directory:
+Clone the repository
 ```
 SSH:
 $ git clone git@github.com:matteomanzo/node_github_api.git
 HTTPS:
 $ git clone https://github.com/matteomanzo/node_github_api.git
+```
+Change into the directory
+```
 $ cd node_github_api
 ```
 Install the dependencies listed in the package.json 
