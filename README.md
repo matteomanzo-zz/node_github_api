@@ -28,9 +28,6 @@ SSH:
 $ git clone git@github.com:matteomanzo/node_github_api.git
 HTTPS:
 $ git clone https://github.com/matteomanzo/node_github_api.git
-```
-Change directory
-```
 $ cd node_github_api
 ```
 Install the dependencies listed in the package.json 
